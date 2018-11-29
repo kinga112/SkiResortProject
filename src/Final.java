@@ -41,7 +41,6 @@ public class Final extends Application {
 	public static Statement st;
 	public static ResultSet rs;
 	
-	
 	public static void main(String[] args) throws Exception {
 		getConnection();
 		launch(args);
